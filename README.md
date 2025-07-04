@@ -7,7 +7,7 @@
 
 Lucio custon music tools
 
-Modified from the overstim project
+Modified from [the overstim project](https://overstim.pharmercy.de/)
 
 ## Quick Start
 
