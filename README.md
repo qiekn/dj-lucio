@@ -50,5 +50,4 @@ This project is possible thanks to the following awesome open-source software:
 - [numpy](https://numpy.org/) - fundamental package for scientific computing
 - [Python](https://www.python.org/) - programming language
 - [PyInstaller](https://pyinstaller.org/) - bundles Python applications and dependencies
-- [Inno Setup](https://jrsoftware.org/isinfo.php) - installer for Windows programs
 - [Pandoc](https://pandoc.org/) - document converter
